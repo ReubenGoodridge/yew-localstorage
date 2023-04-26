@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/reuben/Documents/yew-app/target/wasm32-unknown-unknown/debug/build/typenum-5e031699ffa97982/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/reuben/Documents/yew-app/target/wasm32-unknown-unknown/debug/build/typenum-5e031699ffa97982/out/op.rs

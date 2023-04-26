@@ -1,0 +1,14 @@
+/Users/reuben/Documents/yew-app/target/debug/deps/anstream-6e6faeb55f9ad8a0.rmeta: /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lib.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/mod.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/strip.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/wincon.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/buffer.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/macros.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/auto.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lockable.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/raw.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/strip.rs
+
+/Users/reuben/Documents/yew-app/target/debug/deps/anstream-6e6faeb55f9ad8a0.d: /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lib.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/mod.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/strip.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/wincon.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/buffer.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/macros.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/auto.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lockable.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/raw.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/strip.rs
+
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lib.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/mod.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/strip.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/adapter/wincon.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/buffer.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/macros.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/auto.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/lockable.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/raw.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.1/src/strip.rs:

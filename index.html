@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Yew App</title>
+    </head>
+    <body>
+        <script>
+              var numberOfVisits = localStorage.getItem("numberOfVisits"); // Fetch the local storage item 'numberOfVisits'
+
+if (!numberOfVisits) { // If it can't find 'numberOfVisits' then set it to 0
+    numberOfVisits = 0;
+}
+numberOfVisits = +numberOfVisits + 1; // If it passes that check, add 1
+
+localStorage.setItem("numberOfVisits", numberOfVisits); // Match the numberOfVisits variable to the value in local storage
+        </script>
+    </body>
+</html>

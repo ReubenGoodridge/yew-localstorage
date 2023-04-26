@@ -1,0 +1,13 @@
+/Users/reuben/Documents/yew-app/target/debug/deps/quote-1c0aa5ab40f6469a.rmeta: /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/reuben/Documents/yew-app/target/debug/deps/libquote-1c0aa5ab40f6469a.rlib: /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/reuben/Documents/yew-app/target/debug/deps/quote-1c0aa5ab40f6469a.d: /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/Users/reuben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:
